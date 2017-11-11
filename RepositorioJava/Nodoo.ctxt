@@ -1,15 +1,14 @@
 #BlueJ class context
-comment0.target=Nodoo
-comment1.params=
-comment1.target=Nodoo()
+comment0.params=
+comment0.target=Nodoo()
+comment1.params=v
+comment1.target=Nodoo(int)
 comment2.params=v
-comment2.target=Nodoo(int)
-comment3.params=v
-comment3.target=void\ setValor(int)
-comment4.params=p
-comment4.target=void\ setProx(Nodoo)
+comment2.target=void\ setValor(int)
+comment3.params=p
+comment3.target=void\ setProx(Nodoo)
+comment4.params=
+comment4.target=int\ getValor()
 comment5.params=
-comment5.target=int\ getValor()
-comment6.params=
-comment6.target=Nodoo\ getProx()
-numComments=7
+comment5.target=Nodoo\ getProx()
+numComments=6
