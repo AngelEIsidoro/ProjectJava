@@ -1,27 +1,27 @@
 import java.util.*;
-public class Nodoo
+public class Nodo
 {
     private int valor;
-    private Nodoo prox;
+    private Nodo prox;
     
-    public Nodoo() {
+    public Nodo() {
         this.valor = 0;
         this.prox = null;
     }
-    public Nodoo(int v) {
+    public Nodo(int v) {
         this.valor = v;
         this.prox = null;
     }
     public void setValor(int v) {
         valor = v;
     }
-    public void setProx(Nodoo p) {
+    public void setProx(Nodo p) {
         prox = p;
     }
     public int getValor() {
         return valor;
     }
-    public Nodoo getProx() {
+    public Nodo getProx() {
         return prox;
     }
 }

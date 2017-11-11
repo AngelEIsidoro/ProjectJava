@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.params=
-comment0.target=Pilas()
+comment0.target=Pila()
 comment1.params=
 comment1.target=boolean\ vacia()
 comment2.params=valor
@@ -11,4 +11,8 @@ comment4.params=
 comment4.target=void\ pop()
 comment5.params=
 comment5.target=void\ peek()
-numComments=6
+comment6.params=referencia
+comment6.target=void\ Buscar(int)
+comment7.params=numero
+comment7.target=boolean\ buscar(int)
+numComments=8
